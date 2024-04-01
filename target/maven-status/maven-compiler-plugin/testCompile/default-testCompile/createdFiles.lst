@@ -1,0 +1,12 @@
+framework_with_allure\pages\MainPage.class
+framework_with_allure\LocatorConstants.class
+framework_with_allure\models\EnvData.class
+framework_with_allure\models\UserData.class
+framework_with_allure\AlertTest.class
+framework_with_allure\models\DataTableData.class
+framework_with_allure\utils\SettingsTestData.class
+framework_with_allure\pages\MainPageNavigation.class
+framework_with_allure\models\FileData.class
+framework_with_allure\pages\JavaScriptAlertsPage.class
+framework_with_allure\BaseTest.class
+framework_with_allure\models\Env.class

@@ -1,0 +1,25 @@
+2024-03-15 01:18:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-15 01:18:42 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-15 01:18:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2024-03-15 01:18:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2024-03-15 01:18:48 INFO  - Browser 'CHROME' ready...
+2024-03-15 01:18:48 INFO  - Maximizing browser window
+2024-03-15 01:18:49 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2024-03-15 01:18:53 INFO  - Link 'JavaScript Alerts' :: Clicking
+2024-03-15 01:18:53 INFO  - Button 'Click for JS alert' :: Clicking
+2024-03-15 01:18:53 INFO  - Accepting browser alert
+2024-03-15 01:18:53 INFO  - Closing browser
+2024-03-31 18:01:36 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-31 18:01:36 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-31 18:02:47 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-31 18:02:48 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2024-03-31 18:04:15 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./src/test/resources}
+2024-03-31 18:04:15 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
